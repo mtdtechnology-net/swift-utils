@@ -1,2 +1,3 @@
-# mobile.ios-utils
-Utils Package for iOS
+# Utils
+
+This package offers multiple `util` functions.
